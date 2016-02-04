@@ -69,5 +69,7 @@ private double target;
 	public void setITermBounds(double mini, double maxi) { // sets bounds for integral windup clamp
 		this.mini = mini;
 		this.maxi = maxi;
+
 	}
+}
 
